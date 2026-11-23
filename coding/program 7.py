@@ -1,0 +1,7 @@
+print('what is the total price of the bill')
+bill=input()
+print('how many dinners did you get')
+dinners=input()
+bill=float(bill)
+dinners=float(dinners)
+print('each person must pay')
