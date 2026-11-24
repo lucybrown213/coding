@@ -1,0 +1,6 @@
+firstname=input("what is your first name:")
+surname=input("what is your surname:")
+firstname=firstname.title()
+surname=surname.title()
+print("Your first name is",firstname,)
+print("Your surname is",surname,)
